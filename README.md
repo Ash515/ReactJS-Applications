@@ -18,3 +18,5 @@ To install the react application follow these steps
 - run your work by using  `npx run` 
 
 Thats all about installation and running your react application on local host👨‍💻
+
+<img src="react.jpg" width=900>
